@@ -9,4 +9,3 @@ public class ChessException extends BoardException {
         super(msg);
     }
 }
-
